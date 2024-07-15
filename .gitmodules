@@ -1,0 +1,6 @@
+[submodule "VehicularNetwork"]
+	path = VehicularNetwork
+	url = git@github.com:LikeDeer/VehicularNetwork.git
+[submodule "FLSim"]
+	path = FLSim
+	url = git@github.com:LikeDeer/FLSim.git
