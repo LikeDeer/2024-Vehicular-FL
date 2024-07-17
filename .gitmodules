@@ -1,6 +1,8 @@
 [submodule "VehicularNetwork"]
 	path = VehicularNetwork
 	url = git@github.com:LikeDeer/VehicularNetwork.git
+	branch = main
 [submodule "FLSim"]
 	path = FLSim
 	url = git@github.com:LikeDeer/FLSim.git
+	branch = main
